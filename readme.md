@@ -1,5 +1,5 @@
-**development**
-To run the server, 
+**development**<br>
+To run the server, <br>
 <code>cd server/
 go run main.go</code>
 
