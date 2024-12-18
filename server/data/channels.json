@@ -1,0 +1,27 @@
+[
+    {
+        "id": "hello",
+        "channel_name": "hello",
+        "usernames": [
+            "welcome",
+            "welcome",
+            "go"
+        ]
+    },
+    {
+        "id": "welocme ",
+        "channel_name": "welocme ",
+        "usernames": [
+            "go"
+        ]
+    },
+    {
+        "id": "gioll",
+        "channel_name": "gioll",
+        "usernames": [
+            "go",
+            "go",
+            "then"
+        ]
+    }
+]
