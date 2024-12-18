@@ -1,10 +1,10 @@
-development
+**development **
 To run the server, 
-cd server/
-go run main.go
+<code>cd server/
+go run main.go</code>
 
 To run the frontend,
-cd client/
+<code>cd client/
 open client in vscode 
 code client/
-run with live server vscode extension.
+run with live server vscode extension.</code>
